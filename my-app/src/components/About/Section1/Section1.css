@@ -1,0 +1,20 @@
+.section1 .center{
+    text-align: center;
+    padding-top: 7rem;
+    padding-bottom: 3rem;
+}
+.section1 .center h1{
+    font-weight: 700;
+    margin-left: 31%;
+    width: 40rem;
+    text-align: center;
+    justify-content: center;
+    padding-top: 1rem;
+}
+.section1 .center p{
+    color: grey;
+    font-size: 1.2rem;
+    margin-left: 29%;
+    width: 43rem;
+    padding-top: 2rem;
+}

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+#nav ul li a{
+    color: rgba(255, 255, 255, 0.55);
+    
+}
+#nav{
+    width: 100%;
+}
+.headname{
+    padding-right: 26%;
+}
+#heading{
+    color: white;
+}
+#nav{
+    height: 4rem;
+    justify-content: space-around;
+    font-size: 1rem;
+}
+#nav .dropdown-item{
+    color: black
+}
+#link{
+    text-decoration: none;
+}
+#link{
+    color: white;
+    padding-top: 0.5rem;
+}

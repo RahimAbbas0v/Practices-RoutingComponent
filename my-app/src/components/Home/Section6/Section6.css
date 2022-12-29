@@ -1,0 +1,20 @@
+.contact{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 5.2rem;
+    padding-bottom: 0;
+    align-items: center;
+    font-size: 0.9rem;
+}
+ul{
+    list-style: none;
+    display: flex;padding-top: 0.5rem;
+}
+li{
+   padding-left: 1rem;
+   cursor: pointer;
+}
+.section6{
+    padding-bottom: 0;
+}

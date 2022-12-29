@@ -1,0 +1,20 @@
+#section3 .container{
+    color: black;
+    padding-bottom: 7rem;
+
+}
+#section3 .container p{
+    color: grey;
+}
+#section3 .container h2{
+    font-weight: 600;
+}
+#section3 #right{
+}
+#section3 img{
+    margin-left: 9%;
+    width: 100%;
+}
+#section3 #left{
+    margin-top: 8%;
+}

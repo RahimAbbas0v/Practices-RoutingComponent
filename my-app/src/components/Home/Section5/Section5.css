@@ -1,0 +1,23 @@
+.section5{
+    padding-bottom: 4rem;
+    padding-top: 2rem;
+}
+form{
+    display: flex;
+    color: white;
+    height: 11rem;
+    justify-content: space-around;
+    padding: 3rem;
+    width: 70%;
+    margin-left: 15%;
+    border-radius: 0.5rem;
+}
+.input-group{
+    width: 24.5rem;
+}
+form p{
+    font-size: 0.9rem;
+}
+form .btn:hover{
+    background-color: white!important;
+}

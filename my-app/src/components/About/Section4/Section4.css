@@ -1,0 +1,39 @@
+.section4{
+    padding-top: 6rem;
+}
+.section4 .heading h2{
+    font-size: 2.2rem;
+    padding-bottom: 2rem;
+    margin-top: -4rem;
+}
+.section4 .cards2{
+    padding-top: 3rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap: 20px;
+}
+.section4 .card2{
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 10rem;
+    border-color: white;
+    padding:0%;
+    margin: 0%;
+}
+.section4 .card2 img{
+    width: 55%;
+    border-radius: 50%;
+
+}
+.section4 .card2 h3{
+    padding-top: 2rem;
+}
+.section4 .card2 h5{
+    color: grey;
+    font-style: italic;
+    font-size: 1.1rem;
+}

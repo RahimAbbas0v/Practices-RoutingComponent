@@ -1,0 +1,15 @@
+.section2 .container{
+    color: black;
+}
+.section2 .container p{
+    color: grey;
+}
+.section2 .container h2{
+    font-weight: 600;
+}
+.section2 .right{
+    padding-top: 7rem;
+}
+.section2{
+    padding-bottom: 5rem;
+}

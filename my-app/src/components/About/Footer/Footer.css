@@ -1,0 +1,23 @@
+footer{
+    padding-top: 7rem;
+}
+footer .contact{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 5.2rem;
+    padding-bottom: 0;
+    align-items: center;
+    font-size: 0.9rem;
+}
+footer ul{
+    list-style: none;
+    display: flex;padding-top: 0.5rem;
+}
+footer li{
+   padding-left: 1rem;
+   cursor: pointer;
+}
+footer{
+    padding-bottom: 0;
+}
